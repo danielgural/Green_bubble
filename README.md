@@ -1,6 +1,6 @@
 # Daily Number Incrementer
 
-A Python script that automatically increments a number in a text file, commits the change to Git, and updates a cron job to run the script at a new random time daily. Perfect for maintaining a daily commit streak or tracking sequential values with a dynamic schedule.
+A Python script that automatically increments a number in a text file, commits the change to Git, and updates a cron job to run the script at a new random time daily. Perfect for maintaining a daily commit streak or tracking sequential values with a dynamic schedule. Note, I know this is "cheating", I personally don't think daily contributions should matter. But it "looks cool" to some people so I added in it too look better. No one should have to code every day lol.
 
 ## Setup
 
